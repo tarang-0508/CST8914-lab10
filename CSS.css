@@ -64,7 +64,7 @@
 }
 
 
-/* 🔥 Also highlight when using mouse hover */
+/* Also highlight when using mouse hover */
 .menu-button-actions [role="menuitem"]:hover {
   background: #028a0f; /* Same green */
   color: white;
